@@ -1,0 +1,22 @@
+# Ignore datasets
+Data/
+data/
+
+Literature/
+
+# Ignore virtual environments
+qvenv/
+.venv/
+venv/
+
+# Ignore temporary/OS files
+**/.DS_Store
+
+# Ignore model checkpoints and logs
+*.pt
+*.pth
+*.ckpt
+*.log
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
