@@ -1,6 +1,8 @@
 # Ignore datasets
 Data/
 data/
+outputs/
+reports/
 
 Literature/
 
